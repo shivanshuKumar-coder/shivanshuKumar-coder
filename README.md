@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>Hi, I'm Shivanshu Kumar — a BCA graduate and developer who enjoys turning ideas into real-world applications.<br><br>💻 Building with React, JavaScript, Node.js & MongoDB<br>☕ Strengthening my Java & DSA skills<br>🚀 Interested in full-stack development & backend engineering<br>🧠 Always learning, experimenting, and improving<br>🛠️ I enjoy building projects that solve practical problems<br>🎯 Currently focused on becoming a better software developer<br><br>Build. Learn. Break. Fix. Repeat.
+Hi, I'm Shivanshu Kumar — a BCA graduate and developer who enjoys turning ideas into real-world applications.<br><br>💻 Building with React, JavaScript, Node.js & MongoDB<br>☕ Strengthening my Java & DSA skills<br>🚀 Interested in full-stack development & backend engineering<br>🧠 Always learning, experimenting, and improving<br>🛠️ I enjoy building projects that solve practical problems<br>🎯 Currently focused on becoming a better software developer<br><br>Build. Learn. Break. Fix. Repeat.
 
 
 ## 🌐 Socials:
